@@ -32,14 +32,14 @@ export default {
   methods: {
     itemClick() {
       this.$router.push(this.path);
-      console.log(this.$router);
+      // console.log(this.$router);
     },
   },
 };
 </script>
 
 <style>
-@import "../../assets/css/base.css";
+@import "~assets/css/base.css";
 .tab-bar-item {
   flex: 1;
   font-size: 12px;

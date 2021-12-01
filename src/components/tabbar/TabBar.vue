@@ -11,7 +11,7 @@ export default {
 </script>
 
 <style>
-@import "../../assets/css/base.css";
+@import "~assets/css/base.css";
 #tab-bar {
   position: fixed;
   display: flex;
