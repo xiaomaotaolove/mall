@@ -1,0 +1,62 @@
+[
+  {
+    "type": "pop",
+    "page": 1,
+    "list": [
+      {
+        "shop": "pop",
+        "tag": "pop",
+        "product": "pop",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      },
+      {
+        "shop": "pop",
+        "tag": "pop",
+        "product": "pop",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      },
+      {
+        "shop": "pop",
+        "tag": "pop",
+        "product": "pop",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      }
+    ]
+  },
+  {
+    "type": "news",
+    "page": 1,
+    "list": [
+      {
+        "shop": "news",
+        "tag": "news",
+        "product": "news",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      },
+      {
+        "shop": "news",
+        "tag": "news",
+        "product": "news",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      },
+      {
+        "shop": "news",
+        "tag": "news",
+        "product": "news",
+        "currentPrice": 1,
+        "oldPrice": 400,
+        "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+      }
+    ]
+  }
+]

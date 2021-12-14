@@ -7,6 +7,7 @@
 
 <script>
 import BottomBar from "components/content/bottomTabBar/BottomBar.vue";
+
 export default {
   name: "App",
   components: {
